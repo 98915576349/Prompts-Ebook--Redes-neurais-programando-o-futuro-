@@ -1,0 +1,2 @@
+# Prompts-Ebook--Redes-neurais-programando-o-futuro-
+Redes Neurais: Programando o Futuro" Subtítulo: A importância das redes neurais no mundo da programação. Faça um texto para ebook, Foco em Rede neurais , listando o que tem de mais importante sobre o assunto em tópicos e com exemplos  Regras  >Utilizar texto enxuto  >Explicar de maneira simples  >Sempre traga exemplos com linguagem para iniciantes 
